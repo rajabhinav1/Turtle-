@@ -14,6 +14,8 @@ c=a
 d=random.randint(470,670)
 wn = turtle.Screen()
 wn.setup(400,400)
+wn.bgcolor("blue")
+wn.bgpic("")
 
 aturtle = turtle.Turtle()
 b=True
